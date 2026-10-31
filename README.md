@@ -19,7 +19,7 @@ Software breaks. I build the test suites that bring consistency, so teams can sh
 Nine years working in tech, the last five as QA, most of it owning test coverage for a SOC 2 fintech platform in the US debt-sales market. I came to QA from web design and development, so I read a UI the way a designer does and a codebase the way a developer does.
 
 ```text
-npx cypress run                                  3 repos
+npm run test:ci                                  3 repos
 
   ✓ 2,917 tests across 3 production systems
     637 spec files · 715 suites · 40–50 CI/CD pipelines
