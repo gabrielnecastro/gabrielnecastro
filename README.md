@@ -62,20 +62,61 @@ npx cypress run                                  3 repos
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20%26%20Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-334155?style=for-the-badge&logoColor=white)
+![BDD (Gherkin)](https://img.shields.io/badge/BDD%20%28Gherkin%29-23D96C?style=for-the-badge&logo=cucumber&logoColor=black)
 
-**Technical foundation**
+**API and data**
+
+![API Testing](https://img.shields.io/badge/API%20Testing-0F766E?style=for-the-badge&logoColor=white)
+![REST](https://img.shields.io/badge/REST-475569?style=for-the-badge&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Test Data Management](https://img.shields.io/badge/Test%20Data%20Management-1E3A8A?style=for-the-badge&logoColor=white)
+
+**AI-assisted testing**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Playwright MCP](https://img.shields.io/badge/Playwright%20MCP-2EAD33?style=for-the-badge&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**CI/CD and reporting**
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF6F00?style=for-the-badge&logoColor=white)
+![Mochawesome](https://img.shields.io/badge/Mochawesome-8D6748?style=for-the-badge&logoColor=white)
+![JUnit Reports](https://img.shields.io/badge/JUnit%20Reports-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+**Languages and auth**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Practices:** API testing · E2E, regression and integration testing · Test parallelization · Page Object Model · BDD (Gherkin) · Test data management · Agile / Scrum
+**Practices**
+
+![E2E Testing](https://img.shields.io/badge/E2E%20Testing-0F172A?style=for-the-badge&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-1F2937?style=for-the-badge&logoColor=white)
+![Integration](https://img.shields.io/badge/Integration-334155?style=for-the-badge&logoColor=white)
+![Parallelization](https://img.shields.io/badge/Parallelization-475569?style=for-the-badge&logoColor=white)
+![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-0E7490?style=for-the-badge&logoColor=white)
+
+**Design QA**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-A21CAF?style=for-the-badge&logoColor=white)
+
+**Working knowledge**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662CB7?style=for-the-badge&logo=appium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-1E40AF?style=for-the-badge&logoColor=white)
 
 ---
 
